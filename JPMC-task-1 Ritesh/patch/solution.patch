@@ -1,6 +1,6 @@
 From 7b01bca6b062df88fbd99b4fa682826023feb3a5 Mon Sep 17 00:00:00 2001
 From: Ritesh <riteshkumar007software@gmail.com>
-Date: Fri, 6 May 2020 20:00:45 +0530
+Date: Wed, 6 May 2020 20:00:45 +0530
 Subject: [PATCH] Initial commit
 diff --git a/client.py b/client.py
 index 40badcd..e8b44b1 100644
