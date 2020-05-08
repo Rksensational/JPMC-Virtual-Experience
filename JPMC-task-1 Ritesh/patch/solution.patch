@@ -1,7 +1,9 @@
-From 7b01bca6b062df88fbd99b4fa682826023feb3a5 Mon Sep 17 00:00:00 2001
+From e64340a4505d790rc1668a344de0d4388c2a6271 Mon Sep 17 00:00:00 2001
 From: Ritesh <riteshkumar007software@gmail.com>
-Date: Wed, 6 May 2020 20:00:45 +0530
-Subject: [PATCH] Initial commit
+Date: Wed, 6 May 2020 16:32:19 +0530
+Subject: [PATCH] solution
+
+--
 diff --git a/client.py b/client.py
 index 40badcd..e8b44b1 100644
 --- a/client.py
